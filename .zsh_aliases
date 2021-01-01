@@ -1,0 +1,11 @@
+# Aliases
+alias i3c="vim ~/.config/i3/config"
+alias i3b="vim ~/.config/i3blocks/config"
+
+# Sudo Stuff
+alias pacman="sudo pacman"
+alias deltaco="sudo deltaco"
+alias start='sudo systemctl start'
+alias stop='sudo systemctl stop'
+alias restart='sudo systemctl restart'
+alias status='sudo systemctl status'
